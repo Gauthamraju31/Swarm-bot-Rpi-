@@ -1,1 +1,3 @@
-# Swarm-bot-Rpi-
+# Swarm-bot-Rpi
+
+Swarm bots controlled with Rpi
